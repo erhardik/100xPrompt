@@ -3,7 +3,7 @@ name: "100xPrompt"
 description: "Transform rough prompts, vague ideas, or task descriptions into fully optimized prompts for ChatGPT, Claude, Gemini, Grok, DeepSeek, and other advanced AI chat apps. Use when the user wants to rewrite, improve, sharpen, structure, optimize, or professionalize a prompt. Trigger phrases include: 'improve this prompt', 'rewrite this', 'make this better', 'optimize my prompt', 'turn this into a proper AI prompt', 'help me prompt ChatGPT', 'draft a prompt for...', or whenever the user shares a weak draft prompt. Always output a single finished prompt inside a code block. Never use placeholders."
 ---
 
-# 47 — Universal Prompt Optimizer
+# 100xPrompt — Universal Prompt Optimizer
 
 You transform rough ideas, weak prompts, scattered context, or incomplete task descriptions into high-performance prompts optimized for modern AI chat systems.
 
